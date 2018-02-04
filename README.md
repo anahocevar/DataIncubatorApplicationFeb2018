@@ -1,2 +1,3 @@
 # DataIncubatorFeb2018
-My project
+
+<img src='imgs/animation_small.gif' align="right" width=384>
