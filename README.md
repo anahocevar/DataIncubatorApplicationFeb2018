@@ -16,7 +16,7 @@ So far I extracted intervention events where rodenticide was applied and rat sig
 <br>
 
 <img src='imgs/animation_small.gif' align="left" width=400>
-<img src='RatSightingsBaiting.jpg' align="right" width=300>
+<img src='imgs/RatSightingsBaiting.jpg' align="right" width=300>
 <br>
 Rat sightings dataset is found here: <a href="https://nycopendata.socrata.com/Social-Services/Rat-Sightings/3q43-55fe/data">Rat sightings</a> 
 <br>
