@@ -13,10 +13,10 @@ I am interested in exploring and understanding the dynamics of rat sightings acr
 For better results I also plan to include weather data and if obtainable a New York City Department of Sanitation schedule or log of garbage collections. <br>
 <br>
 So far I extracted intervention events where rodenticide was applied and rat sighting events and I created an animation of these two as seen in the gif on the left. Each point in the animation coresponds to a rat sighting (in crimson) or an baiting intervention event (in aqua). The animation displays rich dynamics with oscillatory behavior and an overall increase of events. That is even more visible in the plot on the right which shows the total number of sightings and interventions each month. 
-<br>
+<br><br><br><br><br><br><br><br>
 
 <img src='imgs/animation_small.gif' align="left" width=400>
-<img src='imgs/RatSightingsBaiting.jpg' align="right" width=300>
+<img src='imgs/RatSightingsBaiting.jpg' align="right" width=500>
 <br>
 Rat sightings dataset is found here: <a href="https://nycopendata.socrata.com/Social-Services/Rat-Sightings/3q43-55fe/data">Rat sightings</a> 
 <br>
