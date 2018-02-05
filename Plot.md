@@ -1,4 +1,3 @@
-# DataIncubatorFeb2018
 <img src='imgs/RatSightingsBaiting.jpg' align="right" width=500>
 <br>
 

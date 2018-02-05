@@ -1,4 +1,3 @@
-# DataIncubatorFeb2018
 NYC Rat Sightings (Project Proposal from Ana Hocevar)
 <br>
 
