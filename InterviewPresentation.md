@@ -16,7 +16,7 @@ So far I extracted intervention events where rodenticide was applied and rat sig
 </div>
 <img src='imgs/animation_small.gif' width=700>
 That is even more visible in the two plots below - the top plot shows the number of rat sightings and interventions per month as a function of time and clearly demonstrates that the number of rat sighting (in crimson) oscillates and on average increases as does the number of interventions (in aqua) which shows a noticeable increase starting in 2016. The bottom plot shows the average number of rat sightings and interventions per week for a given year. I look at weekly number of rat sightings in years 2010-2013 and compare them using a one-way ANOVA.
-<div style="text-align:center"><img src='imgs/SightingsBaitingsByYear_final.jpg'  width=700/></div>
+<img src='imgs/SightingsBaitingsByYear_final.jpg'  width=700>
 <div>
 The obtained p-value equals 0.9642 as is denoted on the bottom plot. From 2013 on I compare weekly number of rat sightings in each year with the year prior by using a two-sample t-tests. The p-values denoted in the bottom plot show that the increase of rat sightings per week in 2014 compared to 2013 is statistically significant.<br><br>
  <b> Conclusion I: From 2013 on, the difference in the number of rat sightings in a given year compared to the year prior is statistically significant.</b>  
