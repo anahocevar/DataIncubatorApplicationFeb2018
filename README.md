@@ -3,7 +3,7 @@ NYC Rat Sightings
 
 Rats are a large problem in New York City. They present a health threat, can contaminate food, spread diseases and reduce quality of life. They can also damage utilities and contribute to the erosion of buildings’ structural integrity. In the last years the rat population in the city increased as New Yorkers logged more than 17,200 sightings in 2016, up from 12,600 in 2014. In an attempt to reduce the number of NYC rats mayor Bill de Blasio just last year declared to dedicate <a href="https://www.nytimes.com/2017/07/12/nyregion/new-york-city-rat-problem.html">$32 million </a> to fight the most problematic rat areas in the city. <br>
 <br>
-<img src='imgs/shutterstock_rats.gif' align="left" width=400>
+<img src='imgs/shutterstock_rats.jpg' align="left" width=300><br><br>
 In my project I will explore rat sightings across New York City reported via the 311 system. I found a dataset that contains reported rat sightings since 2010 until today (in total around 110 000 logged events) and a dataset that contains rodent interventions/inspections in the city, also since 2010 until today (in total around 1.3 million logged events). Both datasets (among other things) contain locations of a sighting or intervention, time of event and type. <br>
 I am interested in exploring and understanding the dynamics of rat sightings across time and how they couple to intervention events. The ultimate goal of the project is:<br>
 (i) to asses the effect of rat interventions, in particular the effect of increased interventions since 2017<br>
