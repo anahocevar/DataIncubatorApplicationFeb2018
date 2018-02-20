@@ -15,12 +15,9 @@ If needed I also plan to include weather data, socioeconomic data on individual 
 So far I extracted intervention events where rodenticide was applied and rat sighting events and I created a spatio-temporal animation of these two as seen in the gif below. Each point in the animation corresponds to a rat sighting (in crimson) or a baiting intervention event (in aqua). The animation displays that while rat sightings occur across the city, they are distributed very non-uniformly. It also shows rich dynamics with oscillatory behavior and an overall increase of number of events over the years.
 </div>
 <img src='imgs/animation_small.gif'  width=700>
-<div>
-That is even more visible in the plot below which shows the total number of rat sightings and interventions each month. The number of rat sighting oscillates and on average increases as does the number of interventions which shows a noticeable increase after the middle of 2016.
-<br>
-<div>
-<img src='imgs/SightingsBaitingsByYear_final.jpg' align="right" width=430>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+That is even more visible in the plot below which shows the total number of rat sightings and interventions each month. The number of rat sighting oscillates and on average increases as does the number of interventions which shows a noticeable increase after the middle of 2016. blaaaa blaaaa 
+<img src='imgs/SightingsBaitingsByYear_final.jpg' align="left" width=430>
+blaaaa blaaaablaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaablaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaablaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaablaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaablaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaablaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaablaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaablaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaablaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaablaaaa blaaaablaaaa blaaaa blaaaa blaaaablaaaa blaaaa blaaaa blaaaa
 Rat sightings dataset is found here: <a href="https://nycopendata.socrata.com/Social-Services/Rat-Sightings/3q43-55fe/data">Rat sightings</a> 
 <br>
 Rodent interventions/inspections dataset is found here: <a href="https://data.cityofnewyork.us/Health/Rodent-Inspection/p937-wjvj">Rodent interventions</a> 
