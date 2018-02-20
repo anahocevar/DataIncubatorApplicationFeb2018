@@ -5,7 +5,7 @@ Rats are a large problem in New York City. They present a health threat, can con
 <br>
 <img src='imgs/shutterstock_rats.jpg' align="left" width=380><br>
 In my project I am exploring rat sightings across New York City reported via the 311 system. I have a dataset that contains 
-<font color="#800000">reported rat sightings/font> since 2010 until today (in total around 110 000 logged events) and a dataset that contains rodent interventions/inspections in the city, also since 2010 until today (in total around 1.3 million logged events). This totals to <b>around 380MB of data</b>. Both datasets (among other things) contain locations of a sighting or intervention, time of event and type. <br><br><br>
+<font color="#800000">reported rat sightings</font> since 2010 until today (in total around 110 000 logged events) and a dataset that contains rodent interventions/inspections in the city, also since 2010 until today (in total around 1.3 million logged events). This totals to <b>around 380MB of data</b>. Both datasets (among other things) contain locations of a sighting or intervention, time of event and type. <br><br><br>
 I am interested in exploring and understanding the dynamics of rat sightings across time and how they couple to intervention events. The ultimate goal of my project is:<br>
 (i) to asses the effect of rat interventions, in particular the effect of increased interventions since 2017<br>
 (ii) choose and test different models for this system (simple linear regression, k-Nearest Neighbors, Random Forest) <br>
