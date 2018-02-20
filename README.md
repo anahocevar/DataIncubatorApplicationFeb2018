@@ -16,10 +16,10 @@ So far I extracted intervention events where rodenticide was applied and rat sig
 </div>
 <img src='imgs/animation_small.gif'  width=700>
 <div>
-That is even more visible in the plot on the right which shows the total number of rat sightings and interventions each month. The number of rat sighting oscillates and on average increases as does the number of interventions which shows a noticeable increase after the middle of 2016.
+That is even more visible in the plot below which shows the total number of rat sightings and interventions each month. The number of rat sighting oscillates and on average increases as does the number of interventions which shows a noticeable increase after the middle of 2016.
 <br>
 <div>
-<img src='imgs/RatSightingsBaiting.jpg' align="right" width=430>
+<img src='imgs/SightingsBaitingsByYear_final.jpg' align="right" width=430>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 Rat sightings dataset is found here: <a href="https://nycopendata.socrata.com/Social-Services/Rat-Sightings/3q43-55fe/data">Rat sightings</a> 
 <br>
